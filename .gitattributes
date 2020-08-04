@@ -1,0 +1,38 @@
+## Git Project Files
+*.blend filter=lfs diff=lfs merge=lfs -text
+# Images
+*.bmp filter=lfs diff=lfs merge=lfs -text
+*.iris filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.jpeg filter=lfs diff=lfs merge=lfs -text
+# JPEG 2000 (wikipedia)
+*.jp2 filter=lfs diff=lfs merge=lfs -text
+*.j2k filter=lfs diff=lfs merge=lfs -text
+*.jpf filter=lfs diff=lfs merge=lfs -text
+*.jpx filter=lfs diff=lfs merge=lfs -text
+*.jpm filter=lfs diff=lfs merge=lfs -text
+*.mj2 filter=lfs diff=lfs merge=lfs -text
+# TGA (wikipedia)
+*.tga filter=lfs diff=lfs merge=lfs -text
+*.icb filter=lfs diff=lfs merge=lfs -text
+*.vda filter=lfs diff=lfs merge=lfs -text
+*.vst filter=lfs diff=lfs merge=lfs -text
+# Kodak CINEON image format (wikipedia)
+*.cin filter=lfs diff=lfs merge=lfs -text
+# Digital Picture Exchange (wikipedia)
+*.dpx filter=lfs diff=lfs merge=lfs -text
+# OpenEXR Bitmap (google search)
+*.exr filter=lfs diff=lfs merge=lfs -text
+# Radiance HDR (wikipedia)
+*.pic filter=lfs diff=lfs merge=lfs -text
+*.hdr filter=lfs diff=lfs merge=lfs -text
+*.rgbe filter=lfs diff=lfs merge=lfs -text
+*.xyze filter=lfs diff=lfs merge=lfs -text
+*.rad filter=lfs diff=lfs merge=lfs -text
+*.img filter=lfs diff=lfs merge=lfs -text
+# Tagged Image File Format, TIFF (wikipedia)
+*.tif filter=lfs diff=lfs merge=lfs -text
+*.tiff filter=lfs diff=lfs merge=lfs -text
+# ---------------------------------------------
+# Animations
+# todo
