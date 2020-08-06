@@ -1,7 +1,6 @@
 Properties to possibly set when creating a new project
 
 ## Navigation
-// Improves Zooming (2.83.3)
 Auto Depth = true 
 
 ## System
