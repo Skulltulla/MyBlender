@@ -1,3 +1,14 @@
+## Set Origin
+
+Use `F3` to search for **Set Origin**
+
+- Geometry to Origin
+- Origin to Geometry
+- Origin to 3D Cursor
+- Origin to Center of Mass (Surface)
+- Origin to Center of Mass (Volume)
+
+
 ## Orientation
 
 `,`

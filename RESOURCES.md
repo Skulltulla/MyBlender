@@ -1,0 +1,2 @@
+[1] chocofur, "Understanding Materials - Blender 2.8 tutorial for Beginners (Eevee)" [YouTube]. Available: https://www.youtube.com/watch?reload=9&v=nBdGm_d_8XE
+[2] Rory Allen. "Blender 2.8 - Your First Render - Beginner Series" [YouTube]. Available: https://www.youtube.com/watch?v=V64gZ6mqmg4

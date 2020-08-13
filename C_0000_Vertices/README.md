@@ -2,7 +2,7 @@
 
 ## Vertex Creation
 
-Vertex creation requires at least one object to be in the scene because if an object is not selected, then you cannot enter **Edit Mode** to create new vertices. Also neither the "Add" list in Object Mode nor Edit Mode contains a "Vertex" option.
+Vertex creation requires at least one object to be in the scene because if an object is not selected, then you cannot enter **Edit Mode** to create new vertices. Also neither the "Add" list in Object Mode nor Edit Mode contains a "Vertex" option. You must also be in **vertex-select** mode `1`.
 
 To create a single vertex from an Object/Mesh, enter **Edit Mode** and then select everything and then use the **Merge** operation.
 
@@ -45,6 +45,18 @@ Properties:
     Activate Tool and Workspace Settings > Options > Auto Merge
 
 See 3DView_AutoMerge.png
+
+# Other
+
+## Render Vertices
+
+A **Particle System** was created under the **Particle Properties** category to render instances of an object for each vertex.
+
+- Particle Type = Hair
+- Render As = Object
+- Emit From = Verts
+- Instance Object = (some object)
+
 
 # Further Reading
 - [Modeling > Meshes > Editing > Vertex Tools](https://docs.blender.org/manual/en/latest/modeling/meshes/editing/vertex/index.html)
