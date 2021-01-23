@@ -1,12 +1,14 @@
 # Cameras
 
-## Local Camera
+## Active Camera
 
-Determines what **Camera Perspective** `NUMPAD 0` will use. In the 3D View there is a triangle that will be filled for the Camera that is selected as the Local Camera.
+A **View** property. In the **3D Viewport** press `N` and select the **View** tab.
 
-The default file has a Camera in the scene and it is applied as the Local Camera.
+The camera used when switching to **Camera Perspective** `NUMPAD 0`, and when **Rendering**
 
-If this is enabled and its value is cleared, then switching to Camera Perspective will result in the one of the first created cameras being applied as the Local Camera.
+To assign, select a camera and use `CTRL NUMPAD-0`. Alternatively, enable **Local Camera** and choose one from the dropdown box.
+
+Non-camera objects may be also selected you may still switch to Camera Perspective and perform Rendering.
 
 ## Camera Perspective
 
